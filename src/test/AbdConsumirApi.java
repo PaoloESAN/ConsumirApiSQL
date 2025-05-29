@@ -1,5 +1,7 @@
 
-package abdconsumirapi;
+package test;
+
+import abdconsumirapi.PeticionesSql;
 
 public class AbdConsumirApi {
     public static void main(String[] args) {
